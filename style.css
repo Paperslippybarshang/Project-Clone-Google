@@ -1,0 +1,15 @@
+nav {
+    background-color: cyan;
+}
+ul {
+    list-style-type: none;
+}
+
+nav .top-left li {
+    float: left;
+    padding: 10px;
+}
+nav .top-right li {
+    float: right;
+    padding: 10px;
+}
