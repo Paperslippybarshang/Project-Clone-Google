@@ -1,15 +1,30 @@
 nav {
-    background-color: cyan;
+    width: 100%;
+    height:50px;
 }
-ul {
+nav ul {
     list-style-type: none;
+    height: 50px;
+    padding: 0;
+    margin: 0;
+
+}
+
+nav .top-left {
+    display: inline-block;
+}
+
+nav .top-right {
+    display: inline-block;
 }
 
 nav .top-left li {
-    float: left;
+    display: inline;
+    /* float: left; */
     padding: 10px;
 }
 nav .top-right li {
-    float: right;
+    display: inline;
+    /* float: right; */
     padding: 10px;
 }
