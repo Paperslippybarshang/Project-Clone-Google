@@ -1,3 +1,10 @@
+body {
+    margin: 0;
+}
+
+/* 
+<Navigation Bar Setting> 
+*/
 nav {
     width: 100%;
     height:50px;
@@ -31,5 +38,71 @@ nav .top-left li {
 nav .top-right li {
     display: inline;
     /* float: right; */
+    padding: 10px;
+}
+
+/* 
+<Section Setting>
+*/
+section {
+    /* centering using flexbox */
+    display: flex;
+    justify-content: center;
+    /* centering using margin */
+    /* margin: 0 auto; */
+}
+
+section div {
+    display: block;
+}
+
+/* 
+<Footer Setting> 
+*/
+
+footer {
+    width: 100%;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    background-color:  lightgray;
+    /* positioning using flexbox */
+    display: flex;
+    justify-content: space-between;
+}
+
+footer ul {
+    list-style-type: none;
+    height: 40px;
+    padding: 10px 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+footer div {
+    display: inline-block; 
+    padding: 10px 0;
+    /* Positioning without flexbox */
+    /* position: absolute;
+    left: 50%; */
+}
+
+footer .top-left {
+    display: inline-block;
+}
+
+footer .top-right {
+    display: inline-block;
+    /* Positioning without flexbox */
+    /* position: absolute;
+    left: 82%; */
+}
+
+footer .top-left li {
+    display: inline;
+    padding: 10px;
+}
+footer .top-right li {
+    display: inline;
     padding: 10px;
 }
