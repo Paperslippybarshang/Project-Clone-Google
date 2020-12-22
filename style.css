@@ -12,7 +12,7 @@ nav {
     height:50px;
     display: flex;
     justify-content: space-between;
-    font-size: 12.5px;
+    
     /* color: #4f4f4f; */
 }
 nav ul {
@@ -21,8 +21,36 @@ nav ul {
     padding: 10px 0;
     margin: 0;
     box-sizing: border-box;
+    font-size: 12.5px;
     
 
+}
+
+#sign-in {
+    background-color: #4D90FE;
+    border-style: none;
+    border-radius: 2px 2px;
+    color: #f7f8fa;
+    padding: 8px 13px;
+    font-weight: bold;
+
+}
+#sign-in:hover {
+    box-shadow: 0 0.5px 0.5px 0.5px #d5d5d5;
+}
+
+nav a {
+    text-decoration: none;
+    color: #7e7d7d;
+}
+
+nav a:visited {
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    color: #7e7d7d;
 }
 
 /* nav and footer inner block alignment */
@@ -59,7 +87,9 @@ section div {
 }
 
 /* Logo */
-
+#logo-g {
+    padding: 0 50px;
+}
 
 /* #form - Search Bar Style */
 .search-form {
@@ -141,10 +171,9 @@ footer {
     bottom: 0;
     font-size: 14px;
     background-color:  #ededed;
-    /* positioning using flexbox */
     display: flex;
-    /* justify-content: space-between; */
-    align-items: center;
+    justify-content: space-between;
+    
 }
 
 footer ul {
@@ -158,6 +187,7 @@ footer ul {
 footer div {
     display: inline-block; 
     padding: 10px 0;
+    margin: 0 auto;
 }
 
 footer a {
@@ -180,7 +210,6 @@ footer a:hover {
 
 /* image sizing */
 #app-menu {
-    width: 30px;
-    height: 30px;
+    height: 20px;
 
 }
