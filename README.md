@@ -7,6 +7,8 @@ The purpose of this project is to apply basic HTML and CSS concepts that I learn
 
 *\*The links and buttons will not function, *except\* for the "Google Search" button.
 
+![Google](https://user-images.githubusercontent.com/44216709/102958456-eca07580-44aa-11eb-913b-2e454c83fb67.jpg)
+
 ## Known Issues
 
 There are still a lot of rooms for improvements and I will continue to update this project to add more details. Here are some of the known issues:<br/>
