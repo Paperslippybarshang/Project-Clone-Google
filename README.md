@@ -5,8 +5,7 @@
 This is a copy of Google's home page.<br/>
 The purpose of this project is to apply basic HTML and CSS concepts that I learned from Springboard. I've tried to apply semantic HTML, such as `<nav>`, `<section>`, and `<footer>`. Each of these elements were positioned using CSS Flexbox. <br/>
 
-*\*\*The links and buttons will not function, *except\* for the "Google Search" button.
-
+*\*The links and buttons will not function, *except\* for the "Google Search" button.
 
 ## Known Issues
 
