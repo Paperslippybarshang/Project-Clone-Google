@@ -22,7 +22,7 @@ nav ul {
     margin: 0;
     box-sizing: border-box;
     font-size: 12.5px;
-    
+    display: flex;
 
 }
 
@@ -51,6 +51,10 @@ nav a:visited {
 nav a:hover {
     text-decoration: underline;
     color: #7e7d7d;
+}
+
+nav > .top-left {
+    padding: 1.2em 0;
 }
 
 /* nav and footer inner block alignment */
