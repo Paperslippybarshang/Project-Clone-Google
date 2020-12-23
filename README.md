@@ -2,9 +2,9 @@
 
 ---
 
-This is a copy of Google's home page.<br/>
+This is a copy of Google's home page. -> https://paperslippybarshang.github.io/Project-Clone-Google/ <br/>
 The purpose of this project is to apply basic HTML and CSS concepts that I learned from Springboard. I've tried to apply semantic HTML, such as `<nav>`, `<section>`, and `<footer>`. Each of these elements were positioned using CSS Flexbox. <br/>
-https://paperslippybarshang.github.io/Project-Clone-Google/
+
 
 *\*The links and buttons will not function, *except\* for the "Google Search" button.
 
