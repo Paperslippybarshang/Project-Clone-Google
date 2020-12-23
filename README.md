@@ -7,6 +7,7 @@ The purpose of this project is to apply basic HTML and CSS concepts that I learn
 
 *\*\*The links and buttons will not function, *except\* for the "Google Search" button.
 
+
 ## Known Issues
 
 There are still a lot of rooms for improvements and I will continue to update this project to add more details. Here are some of the known issues:<br/>
@@ -17,4 +18,4 @@ There are still a lot of rooms for improvements and I will continue to update th
 
 ## Release History
 
-- 1.0.0 - The 1st version of Google home page.
+- 1.0.0 - The 1st version of Google home page - 12/22/2020
