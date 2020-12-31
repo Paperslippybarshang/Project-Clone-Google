@@ -22,3 +22,5 @@ There are still a lot of rooms for improvements and I will continue to update th
 ## Release History
 
 - 1.0.0 - The 1st version of Google home page - 12/22/2020
+
+#### Contributor: Taek Been Nam
